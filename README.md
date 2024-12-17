@@ -12,13 +12,13 @@ This list describes the best rocket counters by their quick attack strength divi
 2. victreebel_shadow: MAGICAL_LEAF
 3. vileplume_shadow: RAZOR_LEAF
 4. torterra_shadow: RAZOR_LEAF
-5. shiftry_shadow: BULLET_SEED
+5. shiftry_shadow: RAZOR_LEAF
 6. roserade: MAGICAL_LEAF
 7. venusaur_mega: RAZOR_LEAF
 8. venusaur_shadow: VINE_WHIP
 9. abomasnow_mega: LEAFAGE
 10. rillaboom: RAZOR_LEAF
-11. tsareena: MAGICAL_LEAF
+11. tsareena: CHARM
 12. arboliva: MAGICAL_LEAF
 13. abomasnow_shadow: LEAFAGE
 14. leafeon: RAZOR_LEAF
@@ -33,13 +33,13 @@ This list describes the best rocket counters by their quick attack strength divi
 
 1. sneasler_shadow: SHADOW_CLAW
 2. beedrill_mega: POISON_JAB
-3. naganadel: AIR_SLASH
+3. naganadel: POISON_JAB
 4. sneasler: POISON_JAB
 5. toxicroak_shadow: POISON_JAB
 6. nihilego: POISON_JAB
-7. nidoking_shadow: DOUBLE_KICK
+7. nidoking_shadow: POISON_JAB
 8. scolipede_shadow: POISON_JAB
-9. roserade: MAGICAL_LEAF
+9. roserade: RAZOR_LEAF
 10. gengar_mega: SUCKER_PUNCH
 11. muk_alolan_shadow: POISON_JAB
 12. muk_shadow: POISON_JAB
@@ -50,7 +50,7 @@ This list describes the best rocket counters by their quick attack strength divi
 17. skuntank_shadow: POISON_JAB
 18. overqwil: POISON_JAB
 19. nidoqueen_shadow: POISON_JAB
-20. victreebel_shadow: MAGICAL_LEAF
+20. victreebel_shadow: RAZOR_LEAF
 
 ## fire
 
@@ -79,24 +79,24 @@ This list describes the best rocket counters by their quick attack strength divi
 
 1. staraptor_shadow: GUST
 2. pidgeot_mega: GUST
-3. rayquaza_mega: DRAGON_TAIL
+3. rayquaza_mega: AIR_SLASH
 4. yveltal: GUST
 5. tornadus_therian: GUST
-6. charizard_mega_y: FIRE_SPIN
+6. charizard_mega_y: AIR_SLASH
 7. staraptor: GUST
 8. honchkrow_shadow: PECK
 9. archeops_shadow: WING_ATTACK
 10. ho_oh_shadow: INCINERATE
 11. salamence_shadow: DRAGON_TAIL
-12. rayquaza: DRAGON_TAIL
+12. rayquaza: AIR_SLASH
 13. pidgeot_shadow: GUST
 14. unfezant_shadow: AIR_SLASH
 15. dragonite_shadow: DRAGON_TAIL
-16. charizard_shadow: FIRE_SPIN
+16. charizard_shadow: DRAGON_BREATH
 17. tornadus_incarnate: AIR_SLASH
 18. scyther_shadow: AIR_SLASH
 19. salamence_mega: DRAGON_TAIL
-20. shaymin_sky: MAGICAL_LEAF
+20. shaymin_sky: HIDDEN_POWER_FLYING
 
 ## dragon
 
@@ -135,7 +135,7 @@ This list describes the best rocket counters by their quick attack strength divi
 10. sharpedo: WATERFALL
 11. gyarados: WATERFALL
 12. kingdra_shadow: WATERFALL
-13. primarina: WATERFALL
+13. primarina: CHARM
 14. crawdaunt: WATERFALL
 15. walrein_shadow: WATERFALL
 16. floatzel: WATERFALL
@@ -151,7 +151,7 @@ This list describes the best rocket counters by their quick attack strength divi
 3. pinsir_mega: ROCK_SMASH
 4. beedrill_mega: POISON_JAB
 5. pinsir_shadow: ROCK_SMASH
-6. escavalier_shadow: COUNTER
+6. escavalier_shadow: BUG_BITE
 7. armaldo_shadow: STRUGGLE_BUG
 8. volcarona: FIRE_SPIN
 9. vikavolt: MUD_SLAP
@@ -159,32 +159,32 @@ This list describes the best rocket counters by their quick attack strength divi
 11. pinsir: ROCK_SMASH
 12. heracross: STRUGGLE_BUG
 13. yanmega: WING_ATTACK
-14. escavalier: COUNTER
+14. escavalier: BUG_BITE
 15. armaldo: STRUGGLE_BUG
 16. venomoth_shadow: CONFUSION
 17. durant: METAL_CLAW
 18. anorith_shadow: STRUGGLE_BUG
 19. beedrill_shadow: POISON_JAB
-20. leavanny: RAZOR_LEAF
+20. leavanny: SHADOW_CLAW
 
 ## dark
 
-1. tyranitar_mega: SMACK_DOWN
-2. tyranitar_shadow: SMACK_DOWN
+1. tyranitar_mega: IRON_TAIL
+2. tyranitar_shadow: IRON_TAIL
 3. sharpedo_shadow: WATERFALL
 4. gyarados_mega: DRAGON_TAIL
 5. cacturne_shadow: SUCKER_PUNCH
-6. hydreigon: BITE
-7. tyranitar: SMACK_DOWN
-8. yveltal: GUST
+6. hydreigon: DRAGON_BREATH
+7. tyranitar: IRON_TAIL
+8. yveltal: SUCKER_PUNCH
 9. sharpedo: WATERFALL
 10. zarude: BITE
-11. muk_alolan_shadow: SNARL
+11. muk_alolan_shadow: POISON_JAB
 12. skuntank_shadow: POISON_JAB
 13. cacturne: SUCKER_PUNCH
 14. drapion_shadow: ICE_FANG
-15. weavile_shadow: SNARL
-16. darkrai: SNARL
+15. weavile_shadow: ICE_SHARD
+16. darkrai: FEINT_ATTACK
 17. mightyena_shadow: ICE_FANG
 18. carvanha_shadow: SNARL
 19. moltres_galarian: SUCKER_PUNCH
@@ -204,7 +204,7 @@ This list describes the best rocket counters by their quick attack strength divi
 10. magneton_shadow: VOLT_SWITCH
 11. golem_alolan_shadow: VOLT_SWITCH
 12. ampharos_shadow: VOLT_SWITCH
-13. vikavolt: VOLT_SWITCH
+13. vikavolt: MUD_SLAP
 14. tapu_koko: VOLT_SWITCH
 15. regieleki: VOLT_SWITCH
 16. galvantula_shadow: VOLT_SWITCH
@@ -221,9 +221,9 @@ This list describes the best rocket counters by their quick attack strength divi
 4. gardevoir_mega: CONFUSION
 5. hoopa_unbound: CONFUSION
 6. mewtwo: CONFUSION
-7. gardevoir_shadow: CHARM
-8. gallade_shadow: CHARM
-9. exeggutor_shadow: ZEN_HEADBUTT
+7. gardevoir_shadow: CONFUSION
+8. gallade_shadow: CONFUSION
+9. exeggutor_shadow: CONFUSION
 10. kadabra_shadow: CONFUSION
 11. alakazam: CONFUSION
 12. deoxys_attack: ZEN_HEADBUTT
@@ -240,10 +240,10 @@ This list describes the best rocket counters by their quick attack strength divi
 
 1. excadrill_shadow: MUD_SLAP
 2. mamoswine_shadow: MUD_SLAP
-3. rhyperior_shadow: SMACK_DOWN
+3. rhyperior_shadow: MUD_SLAP
 4. rhydon_shadow: MUD_SLAP
 5. golurk_shadow: MUD_SLAP
-6. donphan_shadow: CHARM
+6. donphan_shadow: MUD_SLAP
 7. golem_shadow: MUD_SLAP
 8. excadrill: MUD_SLAP
 9. mamoswine: MUD_SLAP
@@ -253,7 +253,7 @@ This list describes the best rocket counters by their quick attack strength divi
 13. groudon_primal: DRAGON_TAIL
 14. rhydon: MUD_SLAP
 15. golurk: MUD_SLAP
-16. donphan: CHARM
+16. donphan: MUD_SLAP
 17. garchomp_mega: DRAGON_TAIL
 18. golem: MUD_SLAP
 19. groudon_shadow: DRAGON_TAIL
@@ -290,18 +290,18 @@ This list describes the best rocket counters by their quick attack strength divi
 4. kartana: AIR_SLASH
 5. scizor_shadow: BULLET_PUNCH
 6. scizor_mega: BULLET_PUNCH
-7. aggron_mega: SMACK_DOWN
-8. aggron_shadow: SMACK_DOWN
-9. metagross: ZEN_HEADBUTT
+7. aggron_mega: DRAGON_TAIL
+8. aggron_shadow: IRON_TAIL
+9. metagross: BULLET_PUNCH
 10. excadrill_shadow: MUD_SLAP
 11. empoleon: WATERFALL
-12. steelix_mega: IRON_TAIL
+12. steelix_mega: DRAGON_TAIL
 13. scizor: BULLET_PUNCH
 14. lucario: FORCE_PALM
 15. necrozma_dusk_mane: SHADOW_CLAW
 16. dialga: METAL_CLAW
 17. dialga_origin: METAL_CLAW
-18. aggron: SMACK_DOWN
+18. aggron: DRAGON_TAIL
 19. heatran_shadow: FIRE_SPIN
 20. lairon_shadow: METAL_CLAW
 
@@ -331,8 +331,8 @@ This list describes the best rocket counters by their quick attack strength divi
 ## fighting
 
 1. lucario_mega: FORCE_PALM
-2. heracross_mega: STRUGGLE_BUG
-3. blaziken_mega: FIRE_SPIN
+2. heracross_mega: COUNTER
+3. blaziken_mega: COUNTER
 4. conkeldurr_shadow: POISON_JAB
 5. blaziken_shadow: FIRE_SPIN
 6. machamp_shadow: KARATE_CHOP
@@ -347,7 +347,7 @@ This list describes the best rocket counters by their quick attack strength divi
 15. primeape_shadow: LOW_KICK
 16. sirfetchd: COUNTER
 17. conkeldurr: COUNTER
-18. blaziken: FIRE_SPIN
+18. blaziken: COUNTER
 19. buzzwole: COUNTER
 20. hitmonchan_shadow: ROCK_SMASH
 
@@ -370,32 +370,32 @@ This list describes the best rocket counters by their quick attack strength divi
 15. carracosta_shadow: ROCK_THROW
 16. lycanroc_midday: ROCK_THROW
 17. tyranitar: SMACK_DOWN
-18. tyrantrum: CHARM
+18. tyrantrum: ROCK_THROW
 19. stonjourner: ROCK_THROW
 20. aerodactyl: ROCK_THROW
 
 ## ghost
 
-1. blacephalon: ASTONISH
+1. blacephalon: INCINERATE
 2. haunter_shadow: SHADOW_CLAW
-3. golurk_shadow: MUD_SLAP
-4. dragapult: DRAGON_TAIL
-5. hoopa: ASTONISH
+3. golurk_shadow: ASTONISH
+4. dragapult: ASTONISH
+5. hoopa: CONFUSION
 6. gengar_mega: SUCKER_PUNCH
 7. cursola: ASTONISH
 8. gholdengo: ASTONISH
 9. polteageist: ASTONISH
 10. gengar_shadow: SUCKER_PUNCH
 11. banette_mega: SHADOW_CLAW
-12. gastly_shadow: ASTONISH
+12. gastly_shadow: SUCKER_PUNCH
 13. haunter: ASTONISH
 14. golurk: ASTONISH
-15. drifblim_shadow: HEX
-16. dusknoir_shadow: HEX
+15. drifblim_shadow: ASTONISH
+16. dusknoir_shadow: ASTONISH
 17. decidueye: ASTONISH
 18. lampent_shadow: ASTONISH
 19. necrozma_dawn_wings: SHADOW_CLAW
-20. misdreavus_shadow: HEX
+20. misdreavus_shadow: ASTONISH
 
 # Filter Strings
 

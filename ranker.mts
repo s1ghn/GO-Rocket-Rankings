@@ -35,9 +35,15 @@ const atkPowerCalculation = (pkmn: typeof pokemon[ 0 ], type: string): number =>
 const getHighestPowerMove = (pkmn: typeof pokemon[ 0 ], type: string): typeof moves[ 0 ] => {
     const translatedMoves = pkmn.fastMoves.map(m => moves.find(mv => mv.moveId === m)!);
     return translatedMoves.reduce((acc, m) => {
+        const isShadow = pkmn.tags?.includes("shadow");
         const power = m.power
+            // STAB & type effectiveness
             * (m.type === type ? 1.2 * 1.4 : 1)
-            * (pkmn.tags?.includes("shadow") ? 1.2 : 1);
+            // Shadow bonus
+            * (isShadow ? 1.2 : 1)
+            // attack duration
+            * (1000 / m.cooldown)
+            ;
 
         return power > acc.power ? m : acc;
     }, { power: 0 } as typeof moves[ 0 ]);
