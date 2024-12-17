@@ -152,6 +152,8 @@ This list describes the best rocket counters by their quick attack strength divi
 `;
 
 for (const type in rankings) {
+    if (type === "none" || type === "normal") continue;
+
     outputRankings += `## ${type}\n\n`;
     outputRankings += rankings[ type ].map((p, i) => `${i + 1}. ${p}\n`).join("");
     outputRankings += "\n";
@@ -162,6 +164,8 @@ let filterStrings = getFilterStringUntilRank(5);
 outputRankings += "# Filter Strings\n\n";
 
 for (const type in filterStrings) {
+    if (type === "none" || type === "normal") continue;
+
     outputRankings += `## ${type}\n\n${filterStrings[ type ]}\n\n`;
 }
 

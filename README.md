@@ -75,29 +75,6 @@ This list describes the best rocket counters by their quick attack strength divi
 19. charizard_mega_x: FIRE_SPIN
 20. charizard_shadow: FIRE_SPIN
 
-## none
-
-1. alakazam_mega: CONFUSION
-2. mewtwo_shadow: CONFUSION
-3. deoxys_attack: ZEN_HEADBUTT
-4. groudon_shadow: DRAGON_TAIL
-5. kyogre_primal: WATERFALL
-6. donphan_shadow: CHARM
-7. alakazam_shadow: CONFUSION
-8. kyogre_shadow: WATERFALL
-9. rampardos_shadow: SMACK_DOWN
-10. granbull_shadow: CHARM
-11. darmanitan_standard_shadow: INCINERATE
-12. haxorus: DRAGON_TAIL
-13. mewtwo: CONFUSION
-14. beartic: CHARM
-15. conkeldurr_shadow: POISON_JAB
-16. groudon: DRAGON_TAIL
-17. liepard_shadow: CHARM
-18. ursaring_shadow: COUNTER
-19. manectric_mega: THUNDER_FANG
-20. entei_shadow: FIRE_SPIN
-
 ## flying
 
 1. staraptor_shadow: GUST
@@ -189,29 +166,6 @@ This list describes the best rocket counters by their quick attack strength divi
 18. anorith_shadow: STRUGGLE_BUG
 19. beedrill_shadow: POISON_JAB
 20. leavanny: RAZOR_LEAF
-
-## normal
-
-1. ambipom_shadow: ASTONISH
-2. ursaluna_shadow: ROCK_SMASH
-3. purugly_shadow: SHADOW_CLAW
-4. ambipom: ASTONISH
-5. persian_shadow: SCRATCH
-6. ursaluna: ROCK_SMASH
-7. teddiursa_shadow: SCRATCH
-8. purugly: SHADOW_CLAW
-9. staraptor_shadow: GUST
-10. stantler_shadow: ZEN_HEADBUTT
-11. aipom_shadow: ASTONISH
-12. bewear: SHADOW_CLAW
-13. ursaring_shadow: COUNTER
-14. girafarig_shadow: CONFUSION
-15. pidgeot_mega: GUST
-16. arboliva: MAGICAL_LEAF
-17. vigoroth: COUNTER
-18. meloetta_aria: CONFUSION
-19. wyrdeer: CONFUSION
-20. persian: SCRATCH
 
 ## dark
 
@@ -457,10 +411,6 @@ This list describes the best rocket counters by their quick attack strength divi
 
 806,257,4,5,6,crypto&806,257,4,5,6,607,608,609,806,257,4,5,6,554,555
 
-## none
-
-65,386,382,crypto&65,386,382,150,65,386,382,383
-
 ## flying
 
 16,17,18,384,717,641,crypto&16,17,18,384,717,641,396,397,398
@@ -476,10 +426,6 @@ This list describes the best rocket counters by their quick attack strength divi
 ## bug
 
 214,795,127,13,14,15,crypto&214,795,127,13,14,15,127
-
-## normal
-
-190,424,crypto&190,424,190,424,190,424,216,217,901,190,424,431,432,190,424,52,53
 
 ## dark
 
