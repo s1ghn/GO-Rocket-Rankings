@@ -71,9 +71,9 @@ This list describes the best rocket counters by their quick attack strength divi
 15. entei_shadow: FIRE_SPIN
 16. blaziken_shadow: FIRE_SPIN
 17. infernape_shadow: FIRE_SPIN
-18. darmanitan_standard: INCINERATE
-19. chandelure: FIRE_SPIN
-20. arcanine: FIRE_FANG
+18. emboar_shadow: EMBER
+19. darmanitan_standard: INCINERATE
+20. chandelure: FIRE_SPIN
 
 ## flying
 
@@ -106,20 +106,20 @@ This list describes the best rocket counters by their quick attack strength divi
 4. salamence_shadow: DRAGON_TAIL
 5. garchomp_mega: DRAGON_TAIL
 6. garchomp_shadow: DRAGON_TAIL
-7. rayquaza: DRAGON_TAIL
-8. palkia_origin: DRAGON_TAIL
-9. haxorus: DRAGON_TAIL
-10. charizard_mega_x: DRAGON_BREATH
-11. exeggutor_alolan_shadow: DRAGON_TAIL
-12. dragonite: DRAGON_TAIL
-13. salamence: DRAGON_TAIL
-14. garchomp: DRAGON_TAIL
-15. dialga: DRAGON_BREATH
-16. palkia: DRAGON_TAIL
-17. zekrom: DRAGON_BREATH
-18. exeggutor_alolan: DRAGON_TAIL
-19. flygon_shadow: DRAGON_TAIL
-20. latios: DRAGON_BREATH
+7. palkia_shadow: DRAGON_TAIL
+8. rayquaza: DRAGON_TAIL
+9. palkia_origin: DRAGON_TAIL
+10. haxorus: DRAGON_TAIL
+11. charizard_mega_x: DRAGON_BREATH
+12. exeggutor_alolan_shadow: DRAGON_TAIL
+13. dragonite: DRAGON_TAIL
+14. salamence: DRAGON_TAIL
+15. garchomp: DRAGON_TAIL
+16. dialga: DRAGON_BREATH
+17. palkia: DRAGON_TAIL
+18. zekrom: DRAGON_BREATH
+19. exeggutor_alolan: DRAGON_TAIL
+20. flygon_shadow: DRAGON_TAIL
 
 ## water
 
@@ -131,18 +131,18 @@ This list describes the best rocket counters by their quick attack strength divi
 6. crawdaunt_shadow: WATERFALL
 7. kyogre: WATERFALL
 8. empoleon_shadow: WATERFALL
-9. kabutops: WATERFALL
-10. kingdra_shadow: WATERFALL
-11. crawdaunt: WATERFALL
-12. walrein_shadow: WATERFALL
-13. empoleon: WATERFALL
-14. floatzel: WATERFALL
-15. samurott: WATERFALL
-16. samurott_hisuian: WATERFALL
-17. golisopod: WATERFALL
-18. blastoise_mega: WATER_GUN
-19. gyarados_mega: DRAGON_TAIL
-20. gyarados_shadow: DRAGON_TAIL
+9. samurott_shadow: WATERFALL
+10. kabutops: WATERFALL
+11. kingdra_shadow: WATERFALL
+12. crawdaunt: WATERFALL
+13. walrein_shadow: WATERFALL
+14. empoleon: WATERFALL
+15. floatzel: WATERFALL
+16. palkia_shadow: DRAGON_TAIL
+17. samurott: WATERFALL
+18. samurott_hisuian: WATERFALL
+19. golisopod: WATERFALL
+20. blastoise_mega: WATER_GUN
 
 ## bug
 
@@ -219,22 +219,22 @@ This list describes the best rocket counters by their quick attack strength divi
 2. mewtwo_shadow: CONFUSION
 3. alakazam_shadow: CONFUSION
 4. gardevoir_mega: CONFUSION
-5. hoopa_unbound: CONFUSION
-6. kadabra_shadow: CONFUSION
-7. exeggutor_shadow: CONFUSION
-8. mewtwo: CONFUSION
-9. gardevoir_shadow: CONFUSION
-10. gallade_shadow: CONFUSION
-11. alakazam: CONFUSION
-12. articuno_galarian: CONFUSION
-13. espeon: CONFUSION
-14. deoxys_attack: ZEN_HEADBUTT
-15. azelf: CONFUSION
-16. meloetta_aria: CONFUSION
-17. hoopa: CONFUSION
-18. tapu_lele: CONFUSION
-19. lunala: CONFUSION
-20. kadabra: CONFUSION
+5. gallade_mega: CONFUSION
+6. hoopa_unbound: CONFUSION
+7. kadabra_shadow: CONFUSION
+8. exeggutor_shadow: CONFUSION
+9. mewtwo: CONFUSION
+10. gardevoir_shadow: CONFUSION
+11. gallade_shadow: CONFUSION
+12. alakazam: CONFUSION
+13. articuno_galarian: CONFUSION
+14. espeon: CONFUSION
+15. deoxys_attack: ZEN_HEADBUTT
+16. azelf: CONFUSION
+17. meloetta_aria: CONFUSION
+18. hoopa: CONFUSION
+19. tapu_lele: CONFUSION
+20. lunala: CONFUSION
 
 ## ground
 
@@ -322,11 +322,11 @@ This list describes the best rocket counters by their quick attack strength divi
 13. gardevoir_mega: CONFUSION
 14. whimsicott: CHARM
 15. diancie_mega: ROCK_THROW
-16. gardevoir_shadow: CONFUSION
-17. tapu_lele: CONFUSION
-18. zacian_hero: FIRE_FANG
-19. enamorus_incarnate: ASTONISH
-20. altaria_mega: DRAGON_BREATH
+16. dachsbun: CHARM
+17. gardevoir_shadow: CONFUSION
+18. tapu_lele: CONFUSION
+19. zacian_hero: FIRE_FANG
+20. enamorus_incarnate: ASTONISH
 
 ## fighting
 
@@ -437,7 +437,7 @@ This list describes the best rocket counters by their quick attack strength divi
 
 ## psychic
 
-65,282,720,crypto&65,282,720,150,65,282,720,63,64,65
+65,282,475,crypto&65,282,475,150,65,282,475,63,64,65
 
 ## ground
 
