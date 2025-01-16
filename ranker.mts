@@ -2,6 +2,8 @@ import pokemon from './pokemon.json';
 import moves from './moves.json';
 import fs from 'fs';
 
+const level51Cpm = 0.84529999;
+
 // Spit by types
 
 const pokemonByType = pokemon.reduce((acc, p) => {
@@ -15,37 +17,40 @@ const pokemonByType = pokemon.reduce((acc, p) => {
 }, {});
 
 const atkPowerCalculation = (pkmn: typeof pokemon[ 0 ], type: string): number => {
-    const atk = pkmn.baseStats.atk + 15;
-    const translatedMoves = pkmn.fastMoves.map(m => moves.find(mv => mv.moveId === m)!);
-    const highestPower = Math.max(...translatedMoves.map(m => {
-        const isShadow = pkmn.tags?.includes("shadow");
-        return m.power
-            // STAB & type effectiveness
-            * (m.type === type ? 1.2 * 1.4 : 1)
-            // Shadow bonus
-            * (isShadow ? 1.2 : 1)
-            // attack duration
-            * (1000 / m.cooldown)
-            ;
-    }));
+    const highestPowerMove = getHighestPowerMove(pkmn, type);
+    const damage = calculateDamage(pkmn, type, highestPowerMove);
 
-    return Math.floor(0.5 * highestPower * atk) + 1;
+    return damage;
+};
+
+const calculateDamage = (pkmn: typeof pokemon[ 0 ], type: string, move: typeof moves[ number ]): number => {
+    const isShadow = pkmn.tags?.includes("shadow");
+    const damage =
+        // Move power
+        move.power
+        // Attack:
+        // Since it relies on Defense of opponent, which we dont know, lets take a kind of decent defense value to aim for good opponents - it must only be the same for every pkmn
+        * (
+            ((pkmn.baseStats.atk + 15) * level51Cpm)
+            / ((200 + 15) * level51Cpm)
+        )
+        // STAB & type effectiveness
+        * (move.type === type ? 1.2 * 1.4 : 1)
+        // Shadow bonus
+        * (isShadow ? 1.2 : 1)
+        // attack duration
+        * (1000 / move.cooldown)
+        ;
+
+    return Math.floor(0.5 * damage) + 1;
 };
 
 const getHighestPowerMove = (pkmn: typeof pokemon[ 0 ], type: string): typeof moves[ 0 ] => {
     const translatedMoves = pkmn.fastMoves.map(m => moves.find(mv => mv.moveId === m)!);
     return translatedMoves.reduce((acc, m) => {
-        const isShadow = pkmn.tags?.includes("shadow");
-        const power = m.power
-            // STAB & type effectiveness
-            * (m.type === type ? 1.2 * 1.4 : 1)
-            // Shadow bonus
-            * (isShadow ? 1.2 : 1)
-            // attack duration
-            * (1000 / m.cooldown)
-            ;
+        const damage = calculateDamage(pkmn, type, m);
 
-        return power > acc.power ? m : acc;
+        return damage > acc.power ? m : acc;
     }, { power: 0 } as typeof moves[ 0 ]);
 };
 
