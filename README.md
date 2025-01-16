@@ -9,186 +9,186 @@ This list describes the best rocket counters by their quick attack strength divi
 ## grass
 
 1. kartana: RAZOR_LEAF
-2. venusaur_mega: RAZOR_LEAF
-3. vileplume_shadow: RAZOR_LEAF
-4. victreebel_shadow: RAZOR_LEAF
-5. shiftry_shadow: RAZOR_LEAF
-6. torterra_shadow: RAZOR_LEAF
-7. roserade: RAZOR_LEAF
-8. venusaur_shadow: RAZOR_LEAF
-9. abomasnow_mega: RAZOR_LEAF
-10. abomasnow_shadow: RAZOR_LEAF
-11. leafeon: RAZOR_LEAF
-12. tsareena: RAZOR_LEAF
-13. rillaboom: RAZOR_LEAF
-14. arboliva: RAZOR_LEAF
-15. ivysaur_shadow: RAZOR_LEAF
-16. venusaur: RAZOR_LEAF
-17. gloom_shadow: RAZOR_LEAF
-18. vileplume: RAZOR_LEAF
-19. weepinbell_shadow: RAZOR_LEAF
-20. victreebel: RAZOR_LEAF
+2. vileplume_shadow: RAZOR_LEAF
+3. torterra_shadow: RAZOR_LEAF
+4. rillaboom: RAZOR_LEAF
+5. gloom_shadow: RAZOR_LEAF
+6. vileplume: RAZOR_LEAF
+7. weepinbell_shadow: RAZOR_LEAF
+8. sunflora: RAZOR_LEAF
+9. grotle_shadow: RAZOR_LEAF
+10. torterra: RAZOR_LEAF
+11. shaymin_sky: MAGICAL_LEAF
+12. oddish_shadow: RAZOR_LEAF
+13. weepinbell: RAZOR_LEAF
+14. victreebel_shadow: MAGICAL_LEAF
+15. ludicolo: RAZOR_LEAF
+16. nuzleaf_shadow: RAZOR_LEAF
+17. grotle: RAZOR_LEAF
+18. roserade: MAGICAL_LEAF
+19. cherrim_overcast: RAZOR_LEAF
+20. cherrim_sunny: RAZOR_LEAF
 
 ## poison
 
 1. beedrill_mega: POISON_JAB
-2. roserade: POISON_JAB
-3. scolipede_shadow: POISON_JAB
-4. nihilego: POISON_JAB
-5. naganadel: POISON_JAB
-6. beedrill_shadow: POISON_JAB
-7. nidoqueen_shadow: POISON_JAB
-8. vileplume_shadow: ACID
-9. victreebel_shadow: ACID
-10. muk_alolan_shadow: POISON_JAB
-11. muk_shadow: POISON_JAB
-12. gengar_mega: SUCKER_PUNCH
-13. gengar_shadow: SUCKER_PUNCH
-14. skuntank_shadow: POISON_JAB
-15. toxtricity: POISON_JAB
-16. overqwil: POISON_JAB
-17. revavroom: POISON_JAB
-18. venusaur_mega: RAZOR_LEAF
-19. venusaur_shadow: RAZOR_LEAF
-20. beedrill: POISON_JAB
+2. scolipede_shadow: POISON_JAB
+3. nihilego: POISON_JAB
+4. beedrill_shadow: POISON_JAB
+5. nidoqueen_shadow: POISON_JAB
+6. muk_shadow: POISON_JAB
+7. gengar_mega: SUCKER_PUNCH
+8. gengar_shadow: SUCKER_PUNCH
+9. sneasel_hisuian_shadow: POISON_JAB
+10. skuntank_shadow: POISON_JAB
+11. salazzle: POISON_JAB
+12. toxtricity: POISON_JAB
+13. overqwil: POISON_JAB
+14. revavroom: POISON_JAB
+15. beedrill: POISON_JAB
+16. nidoqueen: POISON_JAB
+17. vileplume_shadow: RAZOR_LEAF
+18. tentacruel_shadow: POISON_JAB
+19. slowbro_galarian: POISON_JAB
+20. muk: POISON_JAB
 
 ## fire
 
 1. darmanitan_standard_shadow: INCINERATE
-2. blacephalon: INCINERATE
-3. charizard_mega_y: FIRE_SPIN
-4. arcanine_shadow: FIRE_FANG
-5. moltres_shadow: FIRE_SPIN
-6. houndoom_mega: FIRE_FANG
-7. ho_oh_shadow: INCINERATE
-8. blaziken_mega: FIRE_SPIN
-9. magmortar_shadow: FIRE_SPIN
-10. heatran_shadow: FIRE_SPIN
-11. chandelure_shadow: FIRE_SPIN
-12. reshiram: FIRE_FANG
-13. typhlosion_shadow: INCINERATE
-14. houndoom_shadow: FIRE_FANG
-15. entei_shadow: FIRE_SPIN
-16. blaziken_shadow: FIRE_SPIN
-17. infernape_shadow: FIRE_SPIN
-18. emboar_shadow: EMBER
-19. darmanitan_standard: INCINERATE
-20. chandelure: FIRE_SPIN
+2. chandelure_shadow: INCINERATE
+3. ho_oh_shadow: INCINERATE
+4. blaziken_mega: FIRE_SPIN
+5. heatran_shadow: FIRE_SPIN
+6. reshiram: FIRE_FANG
+7. typhlosion_shadow: INCINERATE
+8. entei_shadow: FIRE_SPIN
+9. blaziken_shadow: FIRE_SPIN
+10. emboar_shadow: EMBER
+11. darmanitan_standard: INCINERATE
+12. chandelure: INCINERATE
+13. flareon: FIRE_SPIN
+14. typhlosion: INCINERATE
+15. entei: FIRE_SPIN
+16. ho_oh: INCINERATE
+17. blaziken: FIRE_SPIN
+18. camerupt_shadow: INCINERATE
+19. heatran: FIRE_SPIN
+20. cinderace: FIRE_SPIN
 
 ## flying
 
 1. pidgeot_mega: GUST
-2. rayquaza_mega: AIR_SLASH
-3. staraptor_shadow: GUST
-4. yveltal: GUST
-5. charizard_mega_y: AIR_SLASH
-6. salamence_shadow: DRAGON_TAIL
-7. rayquaza: AIR_SLASH
-8. staraptor: GUST
-9. honchkrow_shadow: PECK
-10. archeops_shadow: WING_ATTACK
-11. charizard_shadow: AIR_SLASH
-12. scyther_shadow: AIR_SLASH
-13. gyarados_shadow: DRAGON_TAIL
-14. dragonite_shadow: DRAGON_TAIL
-15. salamence_mega: DRAGON_TAIL
-16. honchkrow: PECK
-17. unfezant_shadow: AIR_SLASH
-18. tornadus_incarnate: AIR_SLASH
-19. charizard: AIR_SLASH
-20. pidgeot_shadow: AIR_SLASH
+2. yveltal: GUST
+3. rayquaza_mega: DRAGON_TAIL
+4. archeops_shadow: WING_ATTACK
+5. tornadus_therian: GUST
+6. charizard_mega_y: DRAGON_BREATH
+7. pidgeot_shadow: GUST
+8. moltres_shadow: WING_ATTACK
+9. salamence_mega: FIRE_FANG
+10. salamence_shadow: FIRE_FANG
+11. rayquaza: DRAGON_TAIL
+12. tornadus_incarnate: AIR_SLASH
+13. charizard_shadow: DRAGON_BREATH
+14. pidgeot: GUST
+15. gyarados_shadow: WATERFALL
+16. aerodactyl_mega: ROCK_THROW
+17. aerodactyl_shadow: ROCK_THROW
+18. moltres: WING_ATTACK
+19. dragonite_shadow: STEEL_WING
+20. murkrow_shadow: PECK
 
 ## dragon
 
 1. rayquaza_mega: DRAGON_TAIL
-2. dragonite_shadow: DRAGON_TAIL
-3. salamence_mega: DRAGON_TAIL
-4. salamence_shadow: DRAGON_TAIL
-5. garchomp_mega: DRAGON_TAIL
-6. garchomp_shadow: DRAGON_TAIL
-7. palkia_shadow: DRAGON_TAIL
-8. rayquaza: DRAGON_TAIL
-9. palkia_origin: DRAGON_TAIL
-10. haxorus: DRAGON_TAIL
-11. charizard_mega_x: DRAGON_BREATH
-12. exeggutor_alolan_shadow: DRAGON_TAIL
-13. dragonite: DRAGON_TAIL
-14. salamence: DRAGON_TAIL
-15. garchomp: DRAGON_TAIL
-16. dialga: DRAGON_BREATH
-17. palkia: DRAGON_TAIL
-18. zekrom: DRAGON_BREATH
-19. exeggutor_alolan: DRAGON_TAIL
-20. flygon_shadow: DRAGON_TAIL
+2. palkia_shadow: DRAGON_TAIL
+3. rayquaza: DRAGON_TAIL
+4. palkia_origin: DRAGON_TAIL
+5. charizard_mega_x: DRAGON_BREATH
+6. exeggutor_alolan_shadow: DRAGON_TAIL
+7. palkia: DRAGON_TAIL
+8. dragapult: DRAGON_TAIL
+9. exeggutor_alolan: DRAGON_TAIL
+10. hydreigon: DRAGON_BREATH
+11. kommo_o: DRAGON_TAIL
+12. latias_mega: CHARM
+13. goodra: DRAGON_BREATH
+14. salamence_mega: FIRE_FANG
+15. salamence_shadow: FIRE_FANG
+16. latias_shadow: CHARM
+17. dragalge: DRAGON_TAIL
+18. guzzlord: DRAGON_TAIL
+19. drakloak: DRAGON_TAIL
+20. dragonite_shadow: STEEL_WING
 
 ## water
 
 1. kyogre_primal: WATERFALL
 2. kyogre_shadow: WATERFALL
-3. sharpedo_shadow: WATERFALL
-4. feraligatr_shadow: WATERFALL
-5. sharpedo: WATERFALL
-6. crawdaunt_shadow: WATERFALL
-7. kyogre: WATERFALL
-8. empoleon_shadow: WATERFALL
+3. gyarados_mega: WATERFALL
+4. gyarados_shadow: WATERFALL
+5. sharpedo_shadow: WATERFALL
+6. sharpedo: WATERFALL
+7. crawdaunt_shadow: WATERFALL
+8. kyogre: WATERFALL
 9. samurott_shadow: WATERFALL
-10. kabutops: WATERFALL
-11. kingdra_shadow: WATERFALL
-12. crawdaunt: WATERFALL
-13. walrein_shadow: WATERFALL
-14. empoleon: WATERFALL
-15. floatzel: WATERFALL
-16. palkia_shadow: DRAGON_TAIL
-17. samurott: WATERFALL
-18. samurott_hisuian: WATERFALL
-19. golisopod: WATERFALL
-20. blastoise_mega: WATER_GUN
+10. gyarados: WATERFALL
+11. kabutops: WATERFALL
+12. kingdra_shadow: WATERFALL
+13. crawdaunt: WATERFALL
+14. floatzel: WATERFALL
+15. palkia_shadow: DRAGON_TAIL
+16. samurott: WATERFALL
+17. primarina: WATERFALL
+18. blastoise_mega: WATER_GUN
+19. omastar_shadow: WATER_GUN
+20. kingdra: WATERFALL
 
 ## bug
 
 1. heracross_mega: STRUGGLE_BUG
 2. armaldo_shadow: STRUGGLE_BUG
-3. anorith_shadow: STRUGGLE_BUG
-4. armaldo: STRUGGLE_BUG
-5. yanmega: BUG_BITE
-6. escavalier_shadow: COUNTER
-7. durant: BUG_BITE
-8. vikavolt: MUD_SLAP
-9. butterfree_shadow: CONFUSION
-10. beedrill: BUG_BITE
-11. beedrill_mega: INFESTATION
+3. escavalier_shadow: BUG_BITE
+4. volcarona: BUG_BITE
+5. butterfree_shadow: STRUGGLE_BUG
+6. beedrill_mega: POISON_JAB
+7. heracross: STRUGGLE_BUG
+8. anorith_shadow: STRUGGLE_BUG
+9. armaldo: STRUGGLE_BUG
+10. escavalier: BUG_BITE
+11. butterfree: STRUGGLE_BUG
 12. parasect: STRUGGLE_BUG
-13. venomoth_shadow: CONFUSION
+13. scyther_shadow: STEEL_WING
 14. pinsir_mega: ROCK_SMASH
 15. pinsir_shadow: ROCK_SMASH
-16. forretress: STRUGGLE_BUG
-17. forretress_shadow: STRUGGLE_BUG
-18. scizor_mega: BULLET_PUNCH
-19. scizor_shadow: BULLET_PUNCH
-20. heracross: COUNTER
+16. scizor_mega: FURY_CUTTER
+17. scizor_shadow: FURY_CUTTER
+18. beautifly: STRUGGLE_BUG
+19. anorith: STRUGGLE_BUG
+20. kricketune: STRUGGLE_BUG
 
 ## dark
 
-1. cacturne_shadow: SUCKER_PUNCH
-2. yveltal: SUCKER_PUNCH
-3. zarude: BITE
-4. cacturne: SUCKER_PUNCH
-5. skuntank_shadow: BITE
-6. weavile_shadow: FEINT_ATTACK
-7. darkrai: FEINT_ATTACK
-8. muk_alolan: BITE
-9. gyarados_mega: DRAGON_TAIL
-10. moltres_galarian: SUCKER_PUNCH
-11. shiftry_shadow: FEINT_ATTACK
-12. carvanha_shadow: BITE
-13. skuntank: BITE
-14. drapion: BITE
-15. weavile: FEINT_ATTACK
-16. hoopa_unbound: CONFUSION
-17. morpeko_full_belly: BITE
-18. lokix: SUCKER_PUNCH
-19. raticate_alolan_shadow: BITE
-20. grimer_alolan_shadow: BITE
+1. zarude: BITE
+2. hoopa_unbound: ASTONISH
+3. gyarados_mega: WATERFALL
+4. tyranitar_mega: SMACK_DOWN
+5. tyranitar_shadow: SMACK_DOWN
+6. sharpedo_shadow: WATERFALL
+7. crawdaunt_shadow: WATERFALL
+8. spiritomb: SUCKER_PUNCH
+9. hydreigon: DRAGON_BREATH
+10. meowscarada: CHARM
+11. houndour_shadow: FEINT_ATTACK
+12. tyranitar: SMACK_DOWN
+13. mightyena_shadow: ICE_FANG
+14. sharpedo: WATERFALL
+15. crawdaunt: WATERFALL
+16. absol_mega: SNARL
+17. absol_shadow: SNARL
+18. honchkrow_shadow: SNARL
+19. drapion_shadow: ICE_FANG
+20. weavile_shadow: SNARL
 
 ## electric
 
@@ -197,239 +197,239 @@ This list describes the best rocket counters by their quick attack strength divi
 3. ampharos_mega: VOLT_SWITCH
 4. raikou_shadow: VOLT_SWITCH
 5. manectric: THUNDER_FANG
-6. magnezone_shadow: VOLT_SWITCH
-7. thundurus_therian: VOLT_SWITCH
-8. magneton_shadow: VOLT_SWITCH
-9. ampharos_shadow: VOLT_SWITCH
-10. raikou: VOLT_SWITCH
-11. galvantula_shadow: VOLT_SWITCH
-12. tapu_koko: VOLT_SWITCH
-13. xurkitree: SPARK
-14. regieleki: VOLT_SWITCH
-15. raichu_alolan: VOLT_SWITCH
-16. golem_alolan_shadow: ROCK_THROW
-17. magnemite_shadow: VOLT_SWITCH
-18. magneton: VOLT_SWITCH
-19. electrode_shadow: VOLT_SWITCH
-20. jolteon: VOLT_SWITCH
+6. thundurus_therian: VOLT_SWITCH
+7. ampharos_shadow: VOLT_SWITCH
+8. raikou: VOLT_SWITCH
+9. vikavolt: VOLT_SWITCH
+10. xurkitree: SPARK
+11. regieleki: VOLT_SWITCH
+12. graveler_alolan_shadow: VOLT_SWITCH
+13. electrode_shadow: VOLT_SWITCH
+14. jolteon: VOLT_SWITCH
+15. zapdos_shadow: THUNDER_SHOCK
+16. ampharos: VOLT_SWITCH
+17. luxray_shadow: SPARK
+18. zebstrika_shadow: SPARK
+19. eelektross: VOLT_SWITCH
+20. raichu: CHARM
 
 ## psychic
 
-1. alakazam_mega: CONFUSION
-2. mewtwo_shadow: CONFUSION
-3. alakazam_shadow: CONFUSION
-4. gardevoir_mega: CONFUSION
-5. gallade_mega: CONFUSION
-6. hoopa_unbound: CONFUSION
-7. kadabra_shadow: CONFUSION
-8. exeggutor_shadow: CONFUSION
-9. mewtwo: CONFUSION
-10. gardevoir_shadow: CONFUSION
-11. gallade_shadow: CONFUSION
-12. alakazam: CONFUSION
-13. articuno_galarian: CONFUSION
-14. espeon: CONFUSION
-15. deoxys_attack: ZEN_HEADBUTT
-16. azelf: CONFUSION
-17. meloetta_aria: CONFUSION
-18. hoopa: CONFUSION
-19. tapu_lele: CONFUSION
-20. lunala: CONFUSION
+1. deoxys_attack: ZEN_HEADBUTT
+2. meloetta_aria: CONFUSION
+3. alakazam_mega: COUNTER
+4. latias_mega: CHARM
+5. latios_mega: ZEN_HEADBUTT
+6. latios_shadow: ZEN_HEADBUTT
+7. jirachi: CONFUSION
+8. deoxys: ZEN_HEADBUTT
+9. gothitelle_shadow: CONFUSION
+10. alakazam_shadow: COUNTER
+11. exeggutor_shadow: ZEN_HEADBUTT
+12. metagross_shadow: ZEN_HEADBUTT
+13. latias_shadow: CHARM
+14. hoopa_unbound: ASTONISH
+15. wyrdeer: CONFUSION
+16. abra_shadow: ZEN_HEADBUTT
+17. alakazam: COUNTER
+18. exeggutor: ZEN_HEADBUTT
+19. starmie: PSYWAVE
+20. espeon: ZEN_HEADBUTT
 
 ## ground
 
-1. excadrill_shadow: MUD_SLAP
-2. rhyperior_shadow: MUD_SLAP
-3. mamoswine_shadow: MUD_SLAP
-4. dugtrio_alolan_shadow: MUD_SLAP
-5. golem_shadow: MUD_SLAP
-6. rhydon_shadow: MUD_SLAP
-7. donphan_shadow: MUD_SLAP
-8. rhyperior: MUD_SLAP
-9. mamoswine: MUD_SLAP
-10. excadrill: MUD_SLAP
-11. golem: MUD_SLAP
-12. rhydon: MUD_SLAP
-13. groudon_primal: DRAGON_TAIL
-14. garchomp_mega: DRAGON_TAIL
-15. krookodile: MUD_SLAP
-16. dugtrio_alolan: MUD_SLAP
-17. dugtrio_shadow: MUD_SLAP
-18. graveler_shadow: MUD_SLAP
-19. groudon_shadow: DRAGON_TAIL
-20. garchomp_shadow: DRAGON_TAIL
+1. golurk_shadow: MUD_SLAP
+2. krookodile: MUD_SLAP
+3. golurk: MUD_SLAP
+4. donphan_shadow: CHARM
+5. drilbur_shadow: MUD_SLAP
+6. golem_shadow: ROCK_THROW
+7. donphan: CHARM
+8. groudon_primal: MUD_SHOT
+9. groudon_shadow: MUD_SHOT
+10. torterra_shadow: RAZOR_LEAF
+11. gastrodon: MUD_SLAP
+12. garchomp_mega: MUD_SHOT
+13. garchomp_shadow: MUD_SHOT
+14. rhyperior_shadow: SMACK_DOWN
+15. drilbur: MUD_SLAP
+16. excadrill_shadow: MUD_SHOT
+17. krokorok: MUD_SLAP
+18. golett_shadow: MUD_SLAP
+19. landorus_incarnate: ROCK_THROW
+20. dugtrio_alolan_shadow: SAND_ATTACK
 
 ## ice
 
 1. darmanitan_galarian_standard: ICE_FANG
 2. baxcalibur: ICE_FANG
-3. glalie_mega: FROST_BREATH
-4. weavile_shadow: ICE_SHARD
-5. cloyster_shadow: FROST_BREATH
-6. articuno_shadow: FROST_BREATH
-7. walrein_shadow: FROST_BREATH
-8. regice_shadow: FROST_BREATH
-9. weavile: ICE_SHARD
-10. glaceon: FROST_BREATH
-11. vanilluxe: FROST_BREATH
-12. avalugg: ICE_FANG
-13. cloyster: FROST_BREATH
-14. lapras_shadow: FROST_BREATH
-15. articuno: FROST_BREATH
-16. piloswine_shadow: ICE_SHARD
-17. glalie_shadow: FROST_BREATH
-18. walrein: FROST_BREATH
-19. regice: FROST_BREATH
-20. abomasnow_mega: RAZOR_LEAF
+3. glalie_mega: ICE_SHARD
+4. mamoswine_shadow: POWDER_SNOW
+5. avalugg: ICE_FANG
+6. ninetales_alolan_shadow: CHARM
+7. cloyster_shadow: ICE_SHARD
+8. articuno_shadow: ICE_SHARD
+9. sneasel_shadow: ICE_SHARD
+10. glaceon: ICE_SHARD
+11. mamoswine: POWDER_SNOW
+12. darumaka_galarian: ICE_FANG
+13. beartic: CHARM
+14. cryogonal: FROST_BREATH
+15. mr_rime: ICE_SHARD
+16. arctibax: ICE_FANG
+17. ninetales_alolan: CHARM
+18. cloyster: ICE_SHARD
+19. articuno: ICE_SHARD
+20. sneasel: ICE_SHARD
 
 ## steel
 
-1. scizor_shadow: BULLET_PUNCH
-2. metagross_shadow: BULLET_PUNCH
-3. scizor_mega: BULLET_PUNCH
-4. metagross: BULLET_PUNCH
-5. empoleon: STEEL_WING
-6. lucario_mega: COUNTER
-7. excadrill_shadow: MUD_SLAP
-8. dugtrio_alolan_shadow: METAL_CLAW
-9. scizor: BULLET_PUNCH
-10. lairon_shadow: IRON_TAIL
-11. aggron_mega: DRAGON_TAIL
-12. aggron_shadow: DRAGON_TAIL
-13. empoleon_shadow: WATERFALL
-14. lucario: BULLET_PUNCH
-15. dialga: METAL_CLAW
-16. dialga_origin: METAL_CLAW
-17. heatran_shadow: FIRE_SPIN
-18. excadrill: MUD_SLAP
-19. escavalier_shadow: COUNTER
-20. genesect: METAL_CLAW
+1. empoleon_shadow: STEEL_WING
+2. kartana: RAZOR_LEAF
+3. empoleon: STEEL_WING
+4. lucario_mega: FORCE_PALM
+5. skarmory_shadow: STEEL_WING
+6. lucario: FORCE_PALM
+7. dialga: METAL_CLAW
+8. dialga_origin: METAL_CLAW
+9. heatran_shadow: FIRE_SPIN
+10. steelix_mega: THUNDER_FANG
+11. skarmory: STEEL_WING
+12. lairon_shadow: METAL_CLAW
+13. aggron_mega: SMACK_DOWN
+14. aggron_shadow: SMACK_DOWN
+15. metagross_shadow: ZEN_HEADBUTT
+16. jirachi: CONFUSION
+17. heatran: FIRE_SPIN
+18. ferrothorn_shadow: METAL_CLAW
+19. bisharp: METAL_CLAW
+20. durant: METAL_CLAW
 
 ## fairy
 
 1. granbull_shadow: CHARM
-2. gardevoir: CHARM
-3. togekiss: CHARM
-4. primarina: CHARM
-5. ninetales_alolan_shadow: CHARM
-6. granbull: CHARM
-7. sylveon: CHARM
-8. clefable: CHARM
-9. ninetales_alolan: CHARM
-10. aromatisse: CHARM
-11. slurpuff: CHARM
-12. wigglytuff: CHARM
-13. gardevoir_mega: CONFUSION
-14. whimsicott: CHARM
-15. diancie_mega: ROCK_THROW
-16. dachsbun: CHARM
-17. gardevoir_shadow: CONFUSION
-18. tapu_lele: CONFUSION
-19. zacian_hero: FIRE_FANG
-20. enamorus_incarnate: ASTONISH
+2. ninetales_alolan_shadow: CHARM
+3. granbull: CHARM
+4. ninetales_alolan: CHARM
+5. wigglytuff: CHARM
+6. diancie_mega: ROCK_THROW
+7. gardevoir_mega: MAGICAL_LEAF
+8. tapu_lele: ASTONISH
+9. zacian_hero: FIRE_FANG
+10. gardevoir_shadow: MAGICAL_LEAF
+11. primarina: WATERFALL
+12. enamorus_incarnate: FAIRY_WIND
+13. clefable: FAIRY_WIND
+14. rapidash_galarian: FAIRY_WIND
+15. weezing_galarian_shadow: FAIRY_WIND
+16. gardevoir: MAGICAL_LEAF
+17. mawile_mega: FAIRY_WIND
+18. mawile_shadow: FAIRY_WIND
+19. altaria_mega: PECK
+20. togekiss: HIDDEN_POWER_WATER
 
 ## fighting
 
 1. lucario_mega: FORCE_PALM
-2. heracross_mega: COUNTER
-3. blaziken_mega: COUNTER
-4. machamp_shadow: COUNTER
-5. blaziken_shadow: COUNTER
-6. hariyama_shadow: FORCE_PALM
-7. conkeldurr_shadow: COUNTER
-8. mienshao: FORCE_PALM
-9. primeape_shadow: COUNTER
-10. zapdos_galarian: COUNTER
-11. breloom: FORCE_PALM
-12. lucario: FORCE_PALM
-13. toxicroak_shadow: COUNTER
-14. conkeldurr: COUNTER
-15. marshadow: COUNTER
-16. sirfetchd: COUNTER
-17. annihilape_shadow: COUNTER
-18. machamp: COUNTER
-19. hitmonchan_shadow: COUNTER
-20. heracross: COUNTER
+2. hariyama_shadow: FORCE_PALM
+3. mienshao: FORCE_PALM
+4. zapdos_galarian: COUNTER
+5. breloom: FORCE_PALM
+6. lucario: FORCE_PALM
+7. annihilape_shadow: COUNTER
+8. poliwrath_shadow: COUNTER
+9. hariyama: FORCE_PALM
+10. annihilape: COUNTER
+11. poliwrath: COUNTER
+12. infernape_shadow: ROCK_SMASH
+13. lopunny_mega: DOUBLE_KICK
+14. falinks: COUNTER
+15. machamp_shadow: KARATE_CHOP
+16. hitmonlee_shadow: DOUBLE_KICK
+17. hitmonchan_shadow: ROCK_SMASH
+18. hitmontop_shadow: ROCK_SMASH
+19. blaziken_mega: FIRE_SPIN
+20. blaziken_shadow: FIRE_SPIN
 
 ## rock
 
 1. diancie_mega: ROCK_THROW
-2. rampardos_shadow: SMACK_DOWN
-3. aerodactyl_mega: ROCK_THROW
-4. golem_alolan_shadow: ROCK_THROW
-5. omastar_shadow: ROCK_THROW
+2. aerodactyl_mega: ROCK_THROW
+3. tyranitar_mega: SMACK_DOWN
+4. tyranitar_shadow: SMACK_DOWN
+5. golem_shadow: ROCK_THROW
 6. aerodactyl_shadow: ROCK_THROW
-7. rampardos: SMACK_DOWN
-8. golem_alolan: ROCK_THROW
-9. aerodactyl: ROCK_THROW
-10. carracosta_shadow: ROCK_THROW
-11. terrakion: SMACK_DOWN
-12. stakataka: ROCK_THROW
-13. stonjourner: ROCK_THROW
-14. graveler_alolan_shadow: ROCK_THROW
-15. graveler_shadow: ROCK_THROW
-16. omastar: ROCK_THROW
-17. crustle_shadow: SMACK_DOWN
-18. carracosta: ROCK_THROW
-19. aurorus: ROCK_THROW
-20. diancie: ROCK_THROW
+7. rhyperior_shadow: SMACK_DOWN
+8. gigalith_shadow: SMACK_DOWN
+9. golem: ROCK_THROW
+10. aerodactyl: ROCK_THROW
+11. tyranitar: SMACK_DOWN
+12. aggron_shadow: SMACK_DOWN
+13. rhyperior: SMACK_DOWN
+14. carracosta_shadow: ROCK_THROW
+15. tyrantrum: ROCK_THROW
+16. lycanroc_dusk: ROCK_THROW
+17. lycanroc_midday: ROCK_THROW
+18. lycanroc_midnight: ROCK_THROW
+19. stonjourner: ROCK_THROW
+20. graveler_shadow: ROCK_THROW
 
 ## ghost
 
-1. haunter_shadow: ASTONISH
-2. golurk_shadow: ASTONISH
-3. polteageist: ASTONISH
-4. cursola: ASTONISH
-5. dragapult: ASTONISH
-6. gholdengo: ASTONISH
-7. gastly_shadow: ASTONISH
-8. haunter: ASTONISH
-9. banette_mega: SHADOW_CLAW
-10. drifblim_shadow: ASTONISH
-11. dusknoir_shadow: ASTONISH
-12. golurk: ASTONISH
-13. decidueye: ASTONISH
-14. gastly: ASTONISH
-15. gengar: SHADOW_CLAW
-16. gengar_mega: SUCKER_PUNCH
-17. gengar_shadow: SUCKER_PUNCH
-18. misdreavus_shadow: ASTONISH
-19. banette_shadow: SHADOW_CLAW
-20. drifblim: ASTONISH
+1. blacephalon: ASTONISH
+2. hoopa: ASTONISH
+3. banette_mega: SHADOW_CLAW
+4. haunter_shadow: SHADOW_CLAW
+5. gengar_mega: SUCKER_PUNCH
+6. gengar_shadow: SUCKER_PUNCH
+7. banette_shadow: SHADOW_CLAW
+8. chandelure_shadow: INCINERATE
+9. necrozma_dawn_wings: SHADOW_CLAW
+10. haunter: SHADOW_CLAW
+11. gengar: SUCKER_PUNCH
+12. banette: SHADOW_CLAW
+13. giratina_origin: SHADOW_CLAW
+14. chandelure: INCINERATE
+15. golurk_shadow: MUD_SLAP
+16. dragapult: DRAGON_TAIL
+17. annihilape_shadow: COUNTER
+18. gastly_shadow: SUCKER_PUNCH
+19. sableye_shadow: SHADOW_CLAW
+20. giratina_altered: SHADOW_CLAW
 
 # Filter Strings
 
 ## grass
 
-798,1,2,3,crypto&798,1,2,3,43,44,45,798,1,2,3,69,70,71,798,1,2,3,273,274,275
+798,810,811,812,crypto&798,810,811,812,43,44,45,798,810,811,812,387,388,389,798,810,811,812,43,44
 
 ## poison
 
-13,14,15,406,315,407,793,803,804,crypto&13,14,15,406,315,407,793,803,804,543,544,545
+13,14,15,793,crypto&13,14,15,793,543,544,545,13,14,15,793,13,14,15,13,14,15,793,29,30,31
 
 ## fire
 
-806,4,5,6,crypto&806,4,5,6,554,555,806,4,5,6,58,59,806,4,5,6,146
+257,crypto&257,554,555,257,607,608,609,257,250,257,485
 
 ## flying
 
-16,17,18,384,717,4,5,6,crypto&16,17,18,384,717,4,5,6,396,397,398
+16,17,18,717,384,641,crypto&16,17,18,717,384,641,566,567
 
 ## dragon
 
-384,373,445,crypto&384,373,445,147,148,149,384,373,445,371,372,373
+384,384,484,4,5,6,crypto&384,384,484,4,5,6,484
 
 ## water
 
-382,318,319,crypto&382,318,319,382,382,318,319,318,319,382,318,319,158,159,160
+382,129,130,crypto&382,129,130,382,382,129,130,129,130,382,129,130,318,319
 
 ## bug
 
-214,347,348,193,469,crypto&214,347,348,193,469,347,348,214,347,348,193,469,347
+214,636,637,crypto&214,636,637,347,348,214,636,637,588,589,214,636,637,10,11,12
 
 ## dark
 
-717,893,331,332,crypto&717,893,331,332,331,332,717,893,331,332,434,435
+893,720,129,130,248,crypto&893,720,129,130,248,246,247,248
 
 ## electric
 
@@ -437,33 +437,33 @@ This list describes the best rocket counters by their quick attack strength divi
 
 ## psychic
 
-65,282,475,crypto&65,282,475,150,65,282,475,63,64,65
+386,648,65,380,381
 
 ## ground
 
-,crypto,alola&,529,530,,111,112,464,,220,221,473,,50,51,,74,75,76,alola&,crypto,50,51
+551,552,553,622,623,crypto&551,552,553,622,623,622,623,551,552,553,622,623,231,232,551,552,553,622,623,529
 
 ## ice
 
-996,997,998,362,crypto,galar&996,997,998,362,215,461,996,997,998,362,90,91,galar&996,997,998,362,crypto,554,555
+996,997,998,362,712,713,crypto,galar&996,997,998,362,712,713,220,221,473,galar&996,997,998,362,712,713,crypto,554,555
 
 ## steel
 
-123,212,374,375,376,393,394,395,crypto&123,212,374,375,376,393,394,395,123,212,123,212,374,375,376,393,394,395,374,375,376
+798,393,394,395,447,448,crypto&798,393,394,395,447,448,393,394,395,798,393,394,395,447,448,227
 
 ## fairy
 
-280,281,282,175,176,468,728,729,730,crypto,alola&280,281,282,175,176,468,728,729,730,209,210,280,281,282,175,176,468,728,729,730,37,38,alola&280,281,282,175,176,468,728,729,730,crypto,37,38
+209,210,174,39,40,crypto,alola&209,210,174,39,40,209,210,209,210,174,39,40,37,38,alola&209,210,174,39,40,crypto,37,38,209,210,174,39,40,37,38
 
 ## fighting
 
-447,448,214,257,crypto&447,448,214,257,66,67,68,447,448,214,257,255,256,257
+447,448,619,620,285,286,crypto,galar&447,448,619,620,285,286,296,297,galar&447,448,619,620,285,286,crypto,145
 
 ## rock
 
-719,142,crypto,alola&719,142,408,409,719,142,74,75,76,719,142,138,139,alola&719,142,crypto,74,75,76
+719,142,248,crypto&719,142,248,246,247,248,719,142,248,74,75,76
 
 ## ghost
 
-854,855,222,864,885,886,887,crypto&854,855,222,864,885,886,887,92,93,854,855,222,864,885,886,887,622,623
+806,720,354,92,93,94,crypto&806,720,354,92,93,94,92,93
 

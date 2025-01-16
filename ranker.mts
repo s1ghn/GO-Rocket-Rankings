@@ -47,11 +47,17 @@ const calculateDamage = (pkmn: typeof pokemon[ 0 ], type: string, move: typeof m
 
 const getHighestPowerMove = (pkmn: typeof pokemon[ 0 ], type: string): typeof moves[ 0 ] => {
     const translatedMoves = pkmn.fastMoves.map(m => moves.find(mv => mv.moveId === m)!);
-    return translatedMoves.reduce((acc, m) => {
-        const damage = calculateDamage(pkmn, type, m);
+    let highestDamage = 0;
+    let moveWithHighestDamage = translatedMoves[ 0 ];
+    translatedMoves.forEach((move) => {
+        const damage = calculateDamage(pkmn, type, move);
 
-        return damage > acc.power ? m : acc;
-    }, { power: 0 } as typeof moves[ 0 ]);
+        if (damage > highestDamage) {
+            moveWithHighestDamage = move;
+        }
+    });
+
+    return moveWithHighestDamage;
 };
 
 // Object, but sort pkmns for each type by atk power
